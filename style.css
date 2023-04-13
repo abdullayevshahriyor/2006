@@ -1,0 +1,149 @@
+
+.container {
+    background-image: url(./PB0cLGphA7iDFyK.jpeg);
+    width: 1200px;
+    height: 600px;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 70px;
+}
+.a {
+    background: transparent;
+    color: black;
+    margin-left: 550px;
+    font-size: 20px;
+}
+.box1 {
+    width: 350px;
+    height:350px;
+    background-color: white;
+    padding-left: 20px;
+    padding-top: 30px;
+    margin-left: 270px;
+    margin-top: 80px;
+}
+h1 {
+    color: green;
+}
+p {
+    color: black;
+}
+button {
+    width: 140px;
+    height: 50px;
+    color: white;
+    background-color: red;
+    margin-left: 180px;
+    margin-top: 10px;
+}
+.container1 {
+    background-image: url(./Без\ названия.jfif);
+    width: 1200px;
+    height: 600px;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 70px;
+}
+.sh {
+    width: 350px;
+    height: 550px;
+    background-color: white;
+    margin-left: 560px;
+    padding-left: 20px;
+    padding-top: 30px;
+    background-color: rgba(232, 224, 224, 0.701)
+}
+.w {
+    display: flex;
+}
+.q {
+    display: flex;
+}
+.r {
+    display: flex;
+}
+.o {
+    color: rgb(0, 98, 255);
+}
+.d {
+    color: white;
+    background-color: red;
+    width: 140px;
+    height: 50px;
+}
+.container2 {
+    background-image: url(./ra2Mri.jpg);
+    width: 1200px;
+    height: 830px;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 70px;
+}
+img {
+    width: 250px;
+    height: 200px;
+}
+.f {
+    padding-left: 70px;
+}
+.o {
+    width: 140px;
+    height: 50px;
+    background-color: gray;
+    color: white;
+}
+.o1 {
+    width: 140px;
+    height: 50px;
+    background-color: white;
+    color: black;
+}
+.o2 {
+    width: 140px;
+    height: 50px;
+    background-color: white;
+    color: black;
+}
+.o3 {
+    width: 140px;
+    height: 50px;
+    background-color: white;
+    color: black;
+}
+.q {
+    margin-left: -110px;
+    display: flex;
+}
+.container3 {
+    background-image: url(./qotil3.jpg);
+    width: 1200px;
+    height: 600px;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 70px;
+}
+.box {
+    color: red;
+}
+.box2 {
+    width: 400px;
+    height: 600px;
+    background-color: white;
+    margin-left: 90px;
+}
+input {
+    width: 330px;
+    height: 30px;
+    margin-left: 30px;
+}
+.z {
+    width: 120px;
+    height: 50px;
+    background-color: rgb(200, 11, 11);
+    color: white;
+    margin-left: 250px;
+}
